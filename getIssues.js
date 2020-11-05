@@ -10,7 +10,10 @@ const query = `
             hasNextPage
           }
           nodes {
-            bodyText
+            id
+            title
+            number
+            createdAt
           }
         }
       }

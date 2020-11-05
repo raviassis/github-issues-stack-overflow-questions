@@ -1,25 +1,24 @@
 require('dotenv').config();
 const fs = require('fs');
-const {GraphQLClient} = require('graphql-request');
-const getRepositories = require('./getRepositories');
-const getIssues = require('./getIssues');
-const { async } = require('rxjs');
-const token = process.env.GITHUB_TOKEN;
+const getQuestions = require('./getStackOverflowQuestions');
+const repositories = require('./repositories.json');
 
-const clientGraphQl = new GraphQLClient("https://api.github.com/graphql", { headers: {authorization: `Bearer ${token}`}});
-
-const num_repo = 100;
-const repositories = [];
 (async () => {
-    process.stdout.write('Get repositories\n');
-    process.stdout.write(`${repositories.length} of ${num_repo}\r`);
-    for await (const repo of getRepositories(num_repo, clientGraphQl)) {
-        repo.issues = [];
-        for await (const issue of getIssues(num_repo, clientGraphQl, repo)) {
-            repo.issues.push(issue);
+    let count = 0;
+    console.log('Get repositories questions on StackOverflow');
+    console.log(`${count} of ${repositories.length}`);
+    for (const repo of repositories) {
+        for (const issue of repo.issues) {
+            if (!issue.gotQuestions) {
+                const query = `${repo.nameWithOwner}/issues/${issue.number}`;
+                issue.so_questions = await getQuestions(query);
+                issue.gotQuestions = true;
+            }            
         }
-        repositories.push(repo);
-        process.stdout.write(`${repositories.length} of ${num_repo}\r`);
+        
+        fs.writeFileSync('./repositories.json', JSON.stringify(repositories, null, 2));
+        count++;
+        console.log(`${count} of ${repositories.length}`);
     }
     console.log();
 
