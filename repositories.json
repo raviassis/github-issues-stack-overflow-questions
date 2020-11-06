@@ -35693,601 +35693,1057 @@
         "id": "MDU6SXNzdWU0MTA2ODQ0",
         "title": "bootstrap-dropdown.js clearMenus() needs ; at the end",
         "number": 3057,
-        "createdAt": "2012-04-13T16:41:13Z"
+        "createdAt": "2012-04-13T16:41:13Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNzM1NTQ3",
         "title": "Sticky footer",
         "number": 306,
-        "createdAt": "2011-09-25T22:50:21Z"
+        "createdAt": "2011-09-25T22:50:21Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMjc1Mzgz",
         "title": "Migrate to MIT License",
         "number": 2054,
-        "createdAt": "2012-02-17T22:55:46Z"
+        "createdAt": "2012-02-17T22:55:46Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU2MzY5MzQ2",
         "title": "Button dropdown links don't work on mobile (android, iOS)",
         "number": 4550,
-        "createdAt": "2012-08-22T04:53:09Z"
+        "createdAt": "2012-08-22T04:53:09Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyODAzNzMw",
         "title": "Icons as font instead of img ",
         "number": 966,
-        "createdAt": "2012-01-11T12:19:28Z"
+        "createdAt": "2012-01-11T12:19:28Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMDYyMTIzMDU=",
         "title": "Expand the Sizing Utility to allow for responsive breakpoints like \"w-xl-50\" (css, feature, v4)",
         "number": 21943,
-        "createdAt": "2017-02-08T14:24:53Z"
+        "createdAt": "2017-02-08T14:24:53Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxODU4NjE2Mw==",
         "title": "Grid breakpoint for 480px",
         "number": 10203,
-        "createdAt": "2013-08-27T03:25:03Z"
+        "createdAt": "2013-08-27T03:25:03Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMTk0MzQ2",
         "title": "Create ON/OFF Switch",
         "number": 1935,
-        "createdAt": "2012-02-13T00:05:29Z"
+        "createdAt": "2012-02-13T00:05:29Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxODI0ODQ3Mg==",
         "title": "Open modal is shifting body content to the left",
         "number": 9855,
-        "createdAt": "2013-08-19T16:14:32Z"
+        "createdAt": "2013-08-19T16:14:32Z",
+        "so_questions": [
+          {
+            "tags": [
+              "jquery",
+              "css",
+              "twitter-bootstrap",
+              "modal-dialog",
+              "bootstrap-modal"
+            ],
+            "owner": {
+              "reputation": 6760,
+              "user_id": 2153271,
+              "user_type": "registered",
+              "accept_rate": 100,
+              "profile_image": "https://i.stack.imgur.com/Tl0Xp.jpg?s=128&g=1",
+              "display_name": "EleventyOne",
+              "link": "https://stackoverflow.com/users/2153271/eleventyone"
+            },
+            "is_answered": true,
+            "view_count": 45847,
+            "accepted_answer_id": 21666624,
+            "answer_count": 30,
+            "score": 48,
+            "last_activity_date": 1510153452,
+            "creation_date": 1381599664,
+            "last_edit_date": 1400990588,
+            "question_id": 19337238,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/19337238/twitter-bootstrap-modal-pushes-html-content-to-the-left",
+            "title": "Twitter Bootstrap modal pushes html content to the left"
+          },
+          {
+            "tags": [
+              "javascript",
+              "angularjs",
+              "angular-ui-bootstrap",
+              "bootstrap-modal"
+            ],
+            "owner": {
+              "reputation": 248,
+              "user_id": 5120287,
+              "user_type": "registered",
+              "accept_rate": 78,
+              "profile_image": "https://lh3.googleusercontent.com/-BK__1leTH0o/AAAAAAAAAAI/AAAAAAAAAC0/XIEdIM_G46A/photo.jpg?sz=128",
+              "display_name": "Sateesh Kumar Alli",
+              "link": "https://stackoverflow.com/users/5120287/sateesh-kumar-alli"
+            },
+            "is_answered": false,
+            "view_count": 474,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1478779575,
+            "creation_date": 1478769765,
+            "last_edit_date": 1495542286,
+            "question_id": 40523928,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/40523928/fix-page-shift-when-opening-and-closing-uib-modal-of-angular-ui-bootstrap",
+            "title": "Fix page shift when opening and closing uib-modal of angular ui bootstrap"
+          },
+          {
+            "tags": [
+              "jquery",
+              "angularjs",
+              "twitter-bootstrap",
+              "angular-ui"
+            ],
+            "owner": {
+              "reputation": 790,
+              "user_id": 2897345,
+              "user_type": "registered",
+              "accept_rate": 73,
+              "profile_image": "https://www.gravatar.com/avatar/931581667ca47c74c97acb2b85cd766c?s=128&d=identicon&r=PG",
+              "display_name": "Andrew",
+              "link": "https://stackoverflow.com/users/2897345/andrew"
+            },
+            "is_answered": true,
+            "view_count": 5494,
+            "answer_count": 1,
+            "score": 5,
+            "last_activity_date": 1390894411,
+            "creation_date": 1390817602,
+            "last_edit_date": 1390894411,
+            "question_id": 21378116,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/21378116/angularui-modal-preventing-both-body-shift-and-scrolling",
+            "title": "AngularUI Modal - Preventing both body shift and scrolling"
+          }
+        ],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMDg2OTA2",
         "title": "Direct download links (or CDN)",
         "number": 1679,
-        "createdAt": "2012-02-03T18:32:19Z"
+        "createdAt": "2012-02-03T18:32:19Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU2NDE1MTUz",
         "title": "bootstrap-affix.js: using Chrome, affixed menu moves violently up and down each time one scrolls to the bottom of page",
         "number": 4647,
-        "createdAt": "2012-08-23T18:04:16Z"
+        "createdAt": "2012-08-23T18:04:16Z",
+        "so_questions": [
+          {
+            "tags": [
+              "twitter-bootstrap",
+              "affix"
+            ],
+            "owner": {
+              "reputation": 11,
+              "user_id": 9480729,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/76f86b4bac57df27e51a42b803773615?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Danny",
+              "link": "https://stackoverflow.com/users/9480729/danny"
+            },
+            "is_answered": false,
+            "view_count": 335,
+            "answer_count": 0,
+            "score": 1,
+            "last_activity_date": 1521120243,
+            "creation_date": 1520873130,
+            "last_edit_date": 1521120243,
+            "question_id": 49240413,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/49240413/bootstrap-3-3-7-affix-bottom-navbar-flickering",
+            "title": "Bootstrap 3.3.7 affix bottom navbar flickering"
+          }
+        ],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMDA0MDgy",
         "title": "Add remote sources support for typeahead",
         "number": 1336,
-        "createdAt": "2012-01-28T08:59:07Z"
+        "createdAt": "2012-01-28T08:59:07Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNzE1OTgwNQ==",
         "title": "Open modal is shifting fixed navbar to the right",
         "number": 14040,
-        "createdAt": "2014-07-04T11:09:28Z"
+        "createdAt": "2014-07-04T11:09:28Z",
+        "so_questions": [
+          {
+            "tags": [
+              "javascript",
+              "html",
+              "css",
+              "twitter-bootstrap",
+              "nav"
+            ],
+            "owner": {
+              "reputation": 7277,
+              "user_id": 2926340,
+              "user_type": "registered",
+              "accept_rate": 52,
+              "profile_image": "https://www.gravatar.com/avatar/e3095d7dc611cccee149cd72e48ce0bd?s=128&d=identicon&r=PG&f=1",
+              "display_name": "sreginogemoh",
+              "link": "https://stackoverflow.com/users/2926340/sreginogemoh"
+            },
+            "is_answered": false,
+            "view_count": 1851,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1422354782,
+            "creation_date": 1422354406,
+            "last_edit_date": 1422354782,
+            "question_id": 28168198,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/28168198/nav-menu-shifting-right-when-bootstrap-modal-popup-displayed",
+            "title": "Nav menu shifting right when bootstrap modal popup displayed"
+          }
+        ],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMTU2OTQ5Mg==",
         "title": "Middle Mouse Button Not Working in Firefox",
         "number": 7118,
-        "createdAt": "2013-03-02T01:21:30Z"
+        "createdAt": "2013-03-02T01:21:30Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxOTk1MjIw",
         "title": "Calendar/Date input",
         "number": 445,
-        "createdAt": "2011-10-19T15:44:13Z"
+        "createdAt": "2011-10-19T15:44:13Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNTAyODQyMzY=",
         "title": ".invalid-feedback doesn't show for .input-group with an invalid control",
         "number": 23454,
-        "createdAt": "2017-08-15T11:00:29Z"
+        "createdAt": "2017-08-15T11:00:29Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMzEwNTEx",
         "title": "Refine responsive modal variations",
         "number": 2130,
-        "createdAt": "2012-02-21T12:18:03Z"
+        "createdAt": "2012-02-21T12:18:03Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNzY4NzE0",
         "title": "Add Growl style notifications",
         "number": 943,
-        "createdAt": "2012-01-09T13:30:00Z"
+        "createdAt": "2012-01-09T13:30:00Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0NjM0NTY5Mg==",
         "title": "iOS 8.x modal scroll issue",
         "number": 14839,
-        "createdAt": "2014-10-21T01:34:50Z"
+        "createdAt": "2014-10-21T01:34:50Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0NTg0NjAz",
         "title": "Fluid Thumbnails Broken After First Row",
         "number": 3494,
-        "createdAt": "2012-05-15T14:14:49Z"
+        "createdAt": "2012-05-15T14:14:49Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU5MTE5MzIz",
         "title": "Customizer shows error in generated CSS",
         "number": 6181,
-        "createdAt": "2012-12-09T10:44:46Z"
+        "createdAt": "2012-12-09T10:44:46Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMjAwNjI5",
         "title": "Pixels vs EM & Vertical Rhythm ",
         "number": 1943,
-        "createdAt": "2012-02-13T13:43:36Z"
+        "createdAt": "2012-02-13T13:43:36Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMjY1ODU4NDk=",
         "title": "Use custom properties (CSS variables) in bootstrap",
         "number": 26596,
-        "createdAt": "2018-05-25T16:16:34Z"
+        "createdAt": "2018-05-25T16:16:34Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNzUxMzIwMjE=",
         "title": "Getting to v4",
         "number": 20631,
-        "createdAt": "2016-09-05T22:15:06Z"
+        "createdAt": "2016-09-05T22:15:06Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyOTkxMDYwNTY=",
         "title": "v3.4 release",
         "number": 25679,
-        "createdAt": "2018-02-21T19:54:41Z"
+        "createdAt": "2018-02-21T19:54:41Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMDA1NDg1",
         "title": "Dropdown add events",
         "number": 1343,
-        "createdAt": "2012-01-28T15:00:34Z"
+        "createdAt": "2012-01-28T15:00:34Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU5MDUxMjIwMA==",
         "title": "Deploy an official NuGet package",
         "number": 16692,
-        "createdAt": "2015-06-23T23:06:09Z"
+        "createdAt": "2015-06-23T23:06:09Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyOTYzNzI4",
         "title": "Add subnav component and behavior to BS core",
         "number": 1189,
-        "createdAt": "2012-01-25T11:30:40Z"
+        "createdAt": "2012-01-25T11:30:40Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxOTA4MDMy",
         "title": "Dropdown Sub Menus / Menu",
         "number": 424,
-        "createdAt": "2011-10-14T06:37:18Z"
+        "createdAt": "2011-10-14T06:37:18Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNzYzMjAy",
         "title": "input:focus as variable color",
         "number": 2742,
-        "createdAt": "2012-03-22T14:04:15Z"
+        "createdAt": "2012-03-22T14:04:15Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNzMxMDgyOA==",
         "title": "Add optional Bootstrap 2 theme",
         "number": 8706,
-        "createdAt": "2013-07-28T11:18:04Z"
+        "createdAt": "2013-07-28T11:18:04Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNjYxMTI4Mzk=",
         "title": "Responsive Card Decks",
         "number": 20321,
-        "createdAt": "2016-07-18T14:52:38Z"
+        "createdAt": "2016-07-18T14:52:38Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMzIwMzMx",
         "title": "Set modal width?",
         "number": 675,
-        "createdAt": "2011-11-22T17:21:14Z"
+        "createdAt": "2011-11-22T17:21:14Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU2MDQwODU4Mg==",
         "title": "Tooltips cannot be dismissed on iOS",
         "number": 16028,
-        "createdAt": "2015-03-09T20:57:19Z"
+        "createdAt": "2015-03-09T20:57:19Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxODA1ODc4NQ==",
         "title": ".divider-vertical",
         "number": 9501,
-        "createdAt": "2013-08-14T15:30:55Z"
+        "createdAt": "2013-08-14T15:30:55Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNDk4NDY0ODU=",
         "title": "Bootstrap dropdown require Popper.js (https://popper.js.org)",
         "number": 23381,
-        "createdAt": "2017-08-13T01:53:51Z"
+        "createdAt": "2017-08-13T01:53:51Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMTEyMDg0NTA=",
         "title": "Navbar button gets pushed on second row because of form",
         "number": 17913,
-        "createdAt": "2015-10-13T15:43:19Z"
+        "createdAt": "2015-10-13T15:43:19Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMDIxMjMwODQ=",
         "title": "v4 - Touch gesture support for carousel",
         "number": 17118,
-        "createdAt": "2015-08-20T11:56:07Z"
+        "createdAt": "2015-08-20T11:56:07Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU2NDk1ODY5",
         "title": "Two Modal Dialogs Will Hang the Browser",
         "number": 4781,
-        "createdAt": "2012-08-28T10:45:29Z"
+        "createdAt": "2012-08-28T10:45:29Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMjMwOTI5",
         "title": "Add wizard  / progress tracker",
         "number": 1982,
-        "createdAt": "2012-02-15T07:08:45Z"
+        "createdAt": "2012-02-15T07:08:45Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNjM4Njc3MDI=",
         "title": "Hamburger icon (U+2630 TRIGRAM FOR HEAVEN) is always black on Samsung Galaxy S Android devices",
         "number": 20234,
-        "createdAt": "2016-07-05T14:42:34Z"
+        "createdAt": "2016-07-05T14:42:34Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMDkyOTc3",
         "title": "Adding an OOCSS-like Media Object?",
         "number": 1711,
-        "createdAt": "2012-02-04T10:25:47Z"
+        "createdAt": "2012-02-04T10:25:47Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyOTAzMjQwMzM=",
         "title": "Bootstrap v4 breaks Content-Security-Policy compared to Bootstrap v3",
         "number": 25394,
-        "createdAt": "2018-01-22T00:58:04Z"
+        "createdAt": "2018-01-22T00:58:04Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMTMyNTQ0",
         "title": "Pass data arguments to modal?",
         "number": 531,
-        "createdAt": "2011-11-03T13:52:12Z"
+        "createdAt": "2011-11-03T13:52:12Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMDg1NTM1OA==",
         "title": "dropdown menu in a .table-responsive",
         "number": 11037,
-        "createdAt": "2013-10-11T08:09:56Z"
+        "createdAt": "2013-10-11T08:09:56Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxODUwNjYwMQ==",
         "title": "Wrong font icons on some devices",
         "number": 10106,
-        "createdAt": "2013-08-24T13:40:16Z"
+        "createdAt": "2013-08-24T13:40:16Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNzY1Mjk1",
         "title": "Support for loading remote data (like facebox) in modal window",
         "number": 936,
-        "createdAt": "2012-01-09T05:44:21Z"
+        "createdAt": "2012-01-09T05:44:21Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxOTk0MTQ5MjQ=",
         "title": "v4.0.0-alpha.6 - Activating tooltips breaks modals (stuck \"transitioning\")",
         "number": 21607,
-        "createdAt": "2017-01-08T10:38:36Z"
+        "createdAt": "2017-01-08T10:38:36Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxODU2MjgxNDQ=",
         "title": "Bootstrap 4 Navbar with Dropdown and sub-dropdown",
         "number": 21026,
-        "createdAt": "2016-10-27T10:17:24Z"
+        "createdAt": "2016-10-27T10:17:24Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNDA3NDMxNQ==",
         "title": "some glyphicons misrendered on Windows",
         "number": 13657,
-        "createdAt": "2014-05-22T11:54:33Z"
+        "createdAt": "2014-05-22T11:54:33Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzOTM2NzkwMzY=",
         "title": "Problem in Dropdown in Bootstrap 4.2.1",
         "number": 27903,
-        "createdAt": "2018-12-22T14:48:57Z"
+        "createdAt": "2018-12-22T14:48:57Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNjcyMjgyNTA=",
         "title": "Switch to Hugo",
         "number": 24475,
-        "createdAt": "2017-10-20T16:15:43Z"
+        "createdAt": "2017-10-20T16:15:43Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNjI0ODE1MDA=",
         "title": "XSS in data-target attribute",
         "number": 20184,
-        "createdAt": "2016-06-27T15:33:54Z"
+        "createdAt": "2016-06-27T15:33:54Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMDI1NjkzMzI=",
         "title": "Firefox<=28 incompatibility since -moz-box-sizing:border-box isn't included",
         "number": 17237,
-        "createdAt": "2015-08-22T21:47:54Z"
+        "createdAt": "2015-08-22T21:47:54Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMTYzMjUxMQ==",
         "title": "Navbar issues",
         "number": 11243,
-        "createdAt": "2013-10-26T11:47:23Z"
+        "createdAt": "2013-10-26T11:47:23Z",
+        "so_questions": [
+          {
+            "tags": [
+              "css"
+            ],
+            "owner": {
+              "reputation": 11,
+              "user_id": 3117529,
+              "user_type": "registered",
+              "profile_image": "https://graph.facebook.com/100000533614070/picture?type=large",
+              "display_name": "user3117529",
+              "link": "https://stackoverflow.com/users/3117529/user3117529"
+            },
+            "is_answered": false,
+            "view_count": 1931,
+            "answer_count": 0,
+            "score": 1,
+            "last_activity_date": 1387419976,
+            "creation_date": 1387419976,
+            "last_edit_date": 1495535129,
+            "question_id": 20672370,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/20672370/restoring-expanded-responsive-navbar-sub-menu-creates-scrollbar-bootstrap-3-0-2",
+            "title": "Restoring expanded responsive navbar sub-menu creates scrollbar Bootstrap 3.0.2"
+          }
+        ],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNDY0ODUyMw==",
         "title": "dropdowns within sitenav are broke mobile [stop reposting this issue]",
         "number": 7968,
-        "createdAt": "2013-05-22T22:15:05Z"
+        "createdAt": "2013-05-22T22:15:05Z",
+        "so_questions": [
+          {
+            "tags": [
+              "jquery",
+              "css",
+              "twitter-bootstrap",
+              "twitter-bootstrap-3"
+            ],
+            "owner": {
+              "reputation": 5399,
+              "user_id": 800737,
+              "user_type": "registered",
+              "accept_rate": 66,
+              "profile_image": "https://www.gravatar.com/avatar/23a2ed93ab669bc817cc13276edb783f?s=128&d=identicon&r=PG",
+              "display_name": "imjp",
+              "link": "https://stackoverflow.com/users/800737/imjp"
+            },
+            "is_answered": true,
+            "view_count": 23023,
+            "closed_date": 1465169529,
+            "accepted_answer_id": 30858943,
+            "answer_count": 3,
+            "score": 2,
+            "last_activity_date": 1500917965,
+            "creation_date": 1434425452,
+            "question_id": 30858301,
+            "link": "https://stackoverflow.com/questions/30858301/bootstrap-3-collapsed-menu-not-working-on-mobile-screens",
+            "closed_reason": "Not suitable for this site",
+            "title": "Bootstrap 3 collapsed menu not working on mobile screens"
+          }
+        ],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0NjQ3OTA0",
         "title": "Carousel does not start sliding",
         "number": 3528,
-        "createdAt": "2012-05-18T19:22:21Z"
+        "createdAt": "2012-05-18T19:22:21Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNDA5OTc0MDQ=",
         "title": "Unknown browser query `dead`",
         "number": 26876,
-        "createdAt": "2018-07-13T12:18:03Z"
+        "createdAt": "2018-07-13T12:18:03Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0NzU4MzUzNA==",
         "title": "Customizer on Windows: `File.type` is empty string",
         "number": 14978,
-        "createdAt": "2014-11-03T11:16:02Z"
+        "createdAt": "2014-11-03T11:16:02Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyODk3ODY5MTE=",
         "title": "Darken function \"must be a color\" error V4",
         "number": 25361,
-        "createdAt": "2018-01-18T21:47:05Z"
+        "createdAt": "2018-01-18T21:47:05Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0Nzc1MDI0OA==",
         "title": "Investigate & probably file Firefox bug regarding Customizer file saving problem",
         "number": 15016,
-        "createdAt": "2014-11-04T18:53:04Z"
+        "createdAt": "2014-11-04T18:53:04Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU1NDczMDg3",
         "title": "[typeahead] clicking on any option does not work all the time on Chrome",
         "number": 4018,
-        "createdAt": "2012-07-06T20:14:35Z"
+        "createdAt": "2012-07-06T20:14:35Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNzM4MTAzMzM=",
         "title": "Support for prefers-color-scheme media query",
         "number": 27514,
-        "createdAt": "2018-10-25T07:33:02Z"
+        "createdAt": "2018-10-25T07:33:02Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNzU4MDQ1Ng==",
         "title": "Can't scroll to last collapsed navbar item on mobile when there are many items",
         "number": 12738,
-        "createdAt": "2014-02-14T08:27:36Z"
+        "createdAt": "2014-02-14T08:27:36Z",
+        "so_questions": [
+          {
+            "tags": [
+              "twitter-bootstrap",
+              "scroll",
+              "menu",
+              "fixed"
+            ],
+            "owner": {
+              "reputation": 1,
+              "user_id": 4731594,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/72af30ac00a10085e7ae13e018088bb8?s=128&d=identicon&r=PG&f=1",
+              "display_name": "nattylite",
+              "link": "https://stackoverflow.com/users/4731594/nattylite"
+            },
+            "is_answered": false,
+            "view_count": 2185,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1435646374,
+            "creation_date": 1427752445,
+            "last_edit_date": 1435646374,
+            "question_id": 29357026,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/29357026/fixed-menu-bootstrap-isnt-scrolling",
+            "title": "fixed menu bootstrap isn&#39;t scrolling"
+          }
+        ],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNzgwNTk2OQ==",
         "title": ".hide and .show without !important rule",
         "number": 9237,
-        "createdAt": "2013-08-08T13:20:39Z"
+        "createdAt": "2013-08-08T13:20:39Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU3OTYzMDI3",
         "title": "New insert strategy for tooltip breaks tooltips/popovers on table cells",
         "number": 5687,
-        "createdAt": "2012-10-30T09:51:49Z"
+        "createdAt": "2012-10-30T09:51:49Z",
+        "so_questions": [
+          {
+            "tags": [
+              "javascript",
+              "jquery",
+              "twitter-bootstrap",
+              "tooltip"
+            ],
+            "owner": {
+              "reputation": 2307,
+              "user_id": 1695685,
+              "user_type": "registered",
+              "accept_rate": 62,
+              "profile_image": "https://i.stack.imgur.com/r7QZV.jpg?s=128&g=1",
+              "display_name": "zaq",
+              "link": "https://stackoverflow.com/users/1695685/zaq"
+            },
+            "is_answered": true,
+            "view_count": 1209,
+            "accepted_answer_id": 22663421,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1401439355,
+            "creation_date": 1395842165,
+            "last_edit_date": 1495540847,
+            "question_id": 22663209,
+            "content_license": "CC BY-SA 3.0",
+            "link": "https://stackoverflow.com/questions/22663209/tooltip-doesnt-work-in-a-table-cell",
+            "title": "tooltip doesn&#39;t work in a table cell"
+          }
+        ],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMDczODk4",
         "title": "Provide access to Bootstrap 1.4 documentation",
         "number": 1630,
-        "createdAt": "2012-02-02T20:33:19Z"
+        "createdAt": "2012-02-02T20:33:19Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMDY3NTUw",
         "title": "Tables: Hover effect",
         "number": 1602,
-        "createdAt": "2012-02-02T13:14:47Z"
+        "createdAt": "2012-02-02T13:14:47Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNzc5ODY4",
         "title": "Add autocomplete",
         "number": 341,
-        "createdAt": "2011-09-29T20:12:36Z"
+        "createdAt": "2011-09-29T20:12:36Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNzQ3NTU2ODY=",
         "title": "Feature: direction RTL support",
         "number": 24807,
-        "createdAt": "2017-11-17T05:27:40Z"
+        "createdAt": "2017-11-17T05:27:40Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNTQzNDQ2OTg=",
         "title": "\"Large select\" example vertically overflows in Forms component documentation",
         "number": 23769,
-        "createdAt": "2017-08-31T14:00:31Z"
+        "createdAt": "2017-08-31T14:00:31Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMTc5MjU1Mjg=",
         "title": "Add a way to make an entire card into a hyperlink",
         "number": 18294,
-        "createdAt": "2015-11-19T22:41:25Z"
+        "createdAt": "2015-11-19T22:41:25Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0NTEzMjA0OA==",
         "title": "Download doesn't start with Firefox 33 on master",
         "number": 14750,
-        "createdAt": "2014-10-07T16:55:28Z"
+        "createdAt": "2014-10-07T16:55:28Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNjYxMTA4OQ==",
         "title": "Error trying to build using Bower & Grunt",
         "number": 13949,
-        "createdAt": "2014-06-26T20:20:48Z"
+        "createdAt": "2014-06-26T20:20:48Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxODI1MTg0MA==",
         "title": "Grid seems to create a horizontal scroll bar",
         "number": 9862,
-        "createdAt": "2013-08-19T17:21:35Z"
+        "createdAt": "2013-08-19T17:21:35Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU2MDg3MDgw",
         "title": "Install modules via jake",
         "number": 4314,
-        "createdAt": "2012-08-07T19:54:21Z"
+        "createdAt": "2012-08-07T19:54:21Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU2MDMzNTg2",
         "title": "Add a class of helpers for vertical spacing between elements?",
         "number": 4286,
-        "createdAt": "2012-08-04T23:23:06Z"
+        "createdAt": "2012-08-04T23:23:06Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMTk2MTIwNDQ=",
         "title": "Caching problems still exist on v4.1.1 docs",
         "number": 26441,
-        "createdAt": "2018-05-02T15:54:52Z"
+        "createdAt": "2018-05-02T15:54:52Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNjcwMjY5NDE=",
         "title": "Can NOT install bower package from Visual Studio / Core 2",
         "number": 24451,
-        "createdAt": "2017-10-20T00:12:26Z"
+        "createdAt": "2017-10-20T00:12:26Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNjY1MDk2MzU=",
         "title": "Bootstrap 4.0 current git no longer works in WordPress TypeError: $ is undefined",
         "number": 24417,
-        "createdAt": "2017-10-18T14:15:18Z"
+        "createdAt": "2017-10-18T14:15:18Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNTM2OTY5ODM=",
         "title": ".form-control <select> flickers/flashes in OS X Chrome v50 & v51",
         "number": 19865,
-        "createdAt": "2016-05-09T03:26:16Z"
+        "createdAt": "2016-05-09T03:26:16Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU4OTAzNTg4Ng==",
         "title": "bower.json not including css file in main",
         "number": 16663,
-        "createdAt": "2015-06-17T14:39:28Z"
+        "createdAt": "2015-06-17T14:39:28Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU5MzQzNzQy",
         "title": "Tooltip conflict with jQuery UI",
         "number": 6303,
-        "createdAt": "2012-12-17T19:05:59Z"
+        "createdAt": "2012-12-17T19:05:59Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0OTI0MzM4",
         "title": "Add .form-condensed",
         "number": 3737,
-        "createdAt": "2012-06-06T07:47:17Z"
+        "createdAt": "2012-06-06T07:47:17Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNDE0ODI4",
         "title": "ie6 support ",
         "number": 737,
-        "createdAt": "2011-12-01T14:12:38Z"
+        "createdAt": "2011-12-01T14:12:38Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNDY5MjE1MQ==",
         "title": "idea: issues bot that points out live examples whose HTML doesn't validate",
         "number": 11984,
-        "createdAt": "2013-12-23T02:12:00Z"
+        "createdAt": "2013-12-23T02:12:00Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMDkxMTM5OQ==",
         "title": "Select tag not properly styled on stock android browser",
         "number": 11055,
-        "createdAt": "2013-10-12T13:54:43Z"
+        "createdAt": "2013-10-12T13:54:43Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNzMzODczNg==",
         "title": "Column push and pull for different grids",
         "number": 8777,
-        "createdAt": "2013-07-29T13:17:49Z"
+        "createdAt": "2013-07-29T13:17:49Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMDU5NzA1",
         "title": "Bootstrap distorts some Google Maps Controls and Overlays",
         "number": 1552,
-        "createdAt": "2012-02-01T22:09:45Z"
+        "createdAt": "2012-02-01T22:09:45Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyOTcwMzM3",
         "title": "Negative offset for source ordering? 2.0-wip",
         "number": 1215,
-        "createdAt": "2012-01-25T19:50:24Z"
+        "createdAt": "2012-01-25T19:50:24Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyOTQyNjU3ODc=",
         "title": "BS4 custom.scss issue",
         "number": 25550,
-        "createdAt": "2018-02-05T03:46:15Z"
+        "createdAt": "2018-02-05T03:46:15Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0MDA2ODkw",
         "title": "dropdown JS doesn't work on iPad",
         "number": 2975,
-        "createdAt": "2012-04-06T17:24:39Z"
+        "createdAt": "2012-04-06T17:24:39Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNzYzNDI1",
         "title": "aria, accessiblity, and other coolness",
         "number": 931,
-        "createdAt": "2012-01-08T22:43:53Z"
+        "createdAt": "2012-01-08T22:43:53Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNTEzMjU0ODM=",
         "title": "Split in multiple npm packages (was \"Change peerDependencies to optionalDependencies\") ",
         "number": 23557,
-        "createdAt": "2017-08-18T18:35:27Z"
+        "createdAt": "2017-08-18T18:35:27Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMzkxOTM0OTk=",
         "title": "iPad Pro iOS Safari modal overlay \"jumping\" issue",
         "number": 19440,
-        "createdAt": "2016-03-08T06:39:31Z"
+        "createdAt": "2016-03-08T06:39:31Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU4Mzk3NTkzMw==",
         "title": "abbr[title] should not have border-bottom",
         "number": 16574,
-        "createdAt": "2015-06-02T11:20:07Z"
+        "createdAt": "2015-06-02T11:20:07Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU2NDE4OTIzMw==",
         "title": "Modal behind backdrop when parent is position:relative with z-index",
         "number": 16148,
-        "createdAt": "2015-03-25T06:24:42Z"
+        "createdAt": "2015-03-25T06:24:42Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNzMzNDY2MA==",
         "title": "Modal - Screen Flickers on Open and Hide",
         "number": 8768,
-        "createdAt": "2013-07-29T11:29:20Z"
+        "createdAt": "2013-07-29T11:29:20Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU3Njc0NDk5",
         "title": "Clicking anywhere generates JS warnings in Firefox iff a dropdown menu is present",
         "number": 5566,
-        "createdAt": "2012-10-18T01:00:00Z"
+        "createdAt": "2012-10-18T01:00:00Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNzkzNjU4",
         "title": "bootstrap-collapse.js 2.0.3 doc update",
         "number": 2784,
-        "createdAt": "2012-03-24T18:30:34Z"
+        "createdAt": "2012-03-24T18:30:34Z",
+        "so_questions": [],
+        "gotQuestions": true
       }
     ]
   },
@@ -36300,601 +36756,801 @@
         "id": "MDU6SXNzdWU5ODIwODA2OQ==",
         "title": "Add badge to existing lists",
         "number": 253,
-        "createdAt": "2015-07-30T16:16:34Z"
+        "createdAt": "2015-07-30T16:16:34Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxODEzNDI5Nzk=",
         "title": "How to grow Awesome?",
         "number": 784,
-        "createdAt": "2016-10-06T07:31:00Z"
+        "createdAt": "2016-10-06T07:31:00Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU5MDYyMzQ5Ng==",
         "title": "Improve the awesome list ecoystem",
         "number": 207,
-        "createdAt": "2015-06-24T09:30:22Z"
+        "createdAt": "2015-06-24T09:30:22Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMTkwODM5NjU=",
         "title": "Website for searching in awesome.",
         "number": 427,
-        "createdAt": "2015-11-26T17:34:26Z"
+        "createdAt": "2015-11-26T17:34:26Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNjk2OTYxNjQ=",
         "title": "More non-{tech,science} awesome lists please!",
         "number": 732,
-        "createdAt": "2016-08-05T21:03:56Z"
+        "createdAt": "2016-08-05T21:03:56Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU5MTQ2NDA2Ng==",
         "title": "Badge",
         "number": 213,
-        "createdAt": "2015-06-27T13:23:39Z"
+        "createdAt": "2015-06-27T13:23:39Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU3OTU4MzgwNQ==",
         "title": "Local awesome lists",
         "number": 153,
-        "createdAt": "2015-05-22T19:46:05Z"
+        "createdAt": "2015-05-22T19:46:05Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNDk1MjIyNzY=",
         "title": "No longer actively maintained repositories",
         "number": 628,
-        "createdAt": "2016-04-19T17:07:16Z"
+        "createdAt": "2016-04-19T17:07:16Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMTg2NzUwMTg=",
         "title": "Let's add description to entries",
         "number": 928,
-        "createdAt": "2017-04-01T06:45:48Z"
+        "createdAt": "2017-04-01T06:45:48Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMTg2NzQxODc=",
         "title": "List maintainer looking for help",
         "number": 927,
-        "createdAt": "2017-04-01T06:29:57Z"
+        "createdAt": "2017-04-01T06:29:57Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNTkzNDMyMDM=",
         "title": "Review bot?",
         "number": 683,
-        "createdAt": "2016-06-09T07:21:24Z"
+        "createdAt": "2016-06-09T07:21:24Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU3ODY0MjUyMA==",
         "title": "More categories",
         "number": 143,
-        "createdAt": "2015-05-20T18:42:58Z"
+        "createdAt": "2015-05-20T18:42:58Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNDU0NjQ0MTY=",
         "title": "Project status",
         "number": 1363,
-        "createdAt": "2018-07-28T17:17:12Z"
+        "createdAt": "2018-07-28T17:17:12Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMDk1MjYzOTY=",
         "title": "This is awesome",
         "number": 891,
-        "createdAt": "2017-02-22T17:34:22Z"
+        "createdAt": "2017-02-22T17:34:22Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMjg4NjAwNTY=",
         "title": "Still accepting new entries?",
         "number": 1323,
-        "createdAt": "2018-06-03T20:38:17Z"
+        "createdAt": "2018-06-03T20:38:17Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMTg2NzI1OTE=",
         "title": "List maintainers → Ensure your list is still awesome",
         "number": 926,
-        "createdAt": "2017-04-01T05:54:46Z"
+        "createdAt": "2017-04-01T05:54:46Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU5MTg0Mzg1Nw==",
         "title": "Shouldn't the master list be ordered alphabetically?",
         "number": 216,
-        "createdAt": "2015-06-29T15:59:47Z"
+        "createdAt": "2015-06-29T15:59:47Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMTg4NDU3Mzk=",
         "title": "Adding non-English resources to a themed list?",
         "number": 1282,
-        "createdAt": "2018-04-30T10:26:28Z"
+        "createdAt": "2018-04-30T10:26:28Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNzIyNjU4MTU=",
         "title": "Responsibility of the maintainer to respond in a timely fashion..",
         "number": 748,
-        "createdAt": "2016-08-20T10:59:04Z"
+        "createdAt": "2016-08-20T10:59:04Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNjU5ODIzNzI=",
         "title": "Curated list maintained by the community",
         "number": 718,
-        "createdAt": "2016-07-17T15:53:16Z"
+        "createdAt": "2016-07-17T15:53:16Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMjYzNzg1Nzk=",
         "title": "Mongo?",
         "number": 477,
-        "createdAt": "2016-01-13T09:39:37Z"
+        "createdAt": "2016-01-13T09:39:37Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMDMwMTgwMTE=",
         "title": "Static Site Generator",
         "number": 291,
-        "createdAt": "2015-08-25T13:07:05Z"
+        "createdAt": "2015-08-25T13:07:05Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU1NjQwNjQ1MTY=",
         "title": "Request to have my list added as an awesome-software-engineer list",
         "number": 1698,
-        "createdAt": "2020-02-12T15:09:52Z"
+        "createdAt": "2020-02-12T15:09:52Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNTczODUzMjk=",
         "title": "Awesome Windows Repository",
         "number": 671,
-        "createdAt": "2016-05-29T13:01:07Z"
+        "createdAt": "2016-05-29T13:01:07Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMzY5MTY4Mjg=",
         "title": "Helping sorting the Miscellaneous category",
         "number": 550,
-        "createdAt": "2016-02-27T13:07:20Z"
+        "createdAt": "2016-02-27T13:07:20Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMjY5NDE2NDQ=",
         "title": "Non-english lists",
         "number": 479,
-        "createdAt": "2016-01-15T19:36:10Z"
+        "createdAt": "2016-01-15T19:36:10Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMDA4MTEyNDU=",
         "title": "How can we get non-git users to contribute PRs to awesome lists?",
         "number": 269,
-        "createdAt": "2015-08-13T16:18:28Z"
+        "createdAt": "2015-08-13T16:18:28Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU5MjEyMTIzMQ==",
         "title": "Regular Expression ",
         "number": 219,
-        "createdAt": "2015-06-30T15:15:45Z"
+        "createdAt": "2015-06-30T15:15:45Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU2Mzg1NjA1ODA=",
         "title": " Could you please rename master branch?",
         "number": 1793,
-        "createdAt": "2020-06-15T05:41:04Z"
+        "createdAt": "2020-06-15T05:41:04Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0NDgyODkwNjc=",
         "title": "Would make sense adding awesome-* lists for learning languages?",
         "number": 1572,
-        "createdAt": "2019-05-24T17:58:29Z"
+        "createdAt": "2019-05-24T17:58:29Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNjQ3OTgzMzI=",
         "title": "Browser automation tools",
         "number": 1404,
-        "createdAt": "2018-09-28T08:52:16Z"
+        "createdAt": "2018-09-28T08:52:16Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNDU1MDQ4MDM=",
         "title": "Suggestion: Add CI to automate heavy PR load",
         "number": 1365,
-        "createdAt": "2018-07-29T06:03:12Z"
+        "createdAt": "2018-07-29T06:03:12Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMzIxMDg2MTc=",
         "title": "Where's Ada?",
         "number": 977,
-        "createdAt": "2017-05-29T22:46:16Z"
+        "createdAt": "2017-05-29T22:46:16Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMTg5ODUxNTk=",
         "title": "chinese version?",
         "number": 929,
-        "createdAt": "2017-04-03T16:12:26Z"
+        "createdAt": "2017-04-03T16:12:26Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMDI0MDQzMDE=",
         "title": "Media > GIF link broken",
         "number": 872,
-        "createdAt": "2017-01-22T19:38:21Z"
+        "createdAt": "2017-01-22T19:38:21Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMjg2MTk3NjE=",
         "title": "Helping reader find most relevant content",
         "number": 504,
-        "createdAt": "2016-01-25T19:40:20Z"
+        "createdAt": "2016-01-25T19:40:20Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMTA3MzYwMTM=",
         "title": "NoSQL",
         "number": 349,
-        "createdAt": "2015-10-09T21:06:29Z"
+        "createdAt": "2015-10-09T21:06:29Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU3NzM1OTI5OQ==",
         "title": "you dont know js",
         "number": 130,
-        "createdAt": "2015-05-17T17:58:59Z"
+        "createdAt": "2015-05-17T17:58:59Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMTg5ODIwNTQ=",
         "title": "I made a tool: mmarkdown",
         "number": 1283,
-        "createdAt": "2018-04-30T18:07:57Z"
+        "createdAt": "2018-04-30T18:07:57Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMDgzMjU2NDc=",
         "title": "Proposal to add Awesome engineering Vlog (youtube, vimeo etc)",
         "number": 1255,
-        "createdAt": "2018-03-25T06:15:20Z"
+        "createdAt": "2018-03-25T06:15:20Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyODg1Njg5MzA=",
         "title": "Why is Ripple under decentralized systems? It's centralized.",
         "number": 1184,
-        "createdAt": "2018-01-15T11:51:37Z"
+        "createdAt": "2018-01-15T11:51:37Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNTgyOTA2Mjc=",
         "title": "Mentioned in Awesome badge/shield",
         "number": 1048,
-        "createdAt": "2017-09-17T09:20:19Z"
+        "createdAt": "2017-09-17T09:20:19Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMDMzODExNjY=",
         "title": "Meta list for programming libraries",
         "number": 873,
-        "createdAt": "2017-01-26T14:15:13Z"
+        "createdAt": "2017-01-26T14:15:13Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNDAwMzY5Njc=",
         "title": "Tools for enforcing awesome-style?",
         "number": 569,
-        "createdAt": "2016-03-10T23:16:17Z"
+        "createdAt": "2016-03-10T23:16:17Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMTIwMzE5Njc=",
         "title": "Include Awesome AWS in the list",
         "number": 360,
-        "createdAt": "2015-10-18T17:49:52Z"
+        "createdAt": "2015-10-18T17:49:52Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU4NDMwMjUzMw==",
         "title": "Organizing the michellaneous category alphabetically",
         "number": 177,
-        "createdAt": "2015-06-03T01:42:24Z"
+        "createdAt": "2015-06-03T01:42:24Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU1OTc1MTM3NDc=",
         "title": "Gaming - Minecraft is seriously outdated",
         "number": 1755,
-        "createdAt": "2020-04-09T19:49:20Z"
+        "createdAt": "2020-04-09T19:49:20Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNzQ5MDIxMTI=",
         "title": "ListList service and Awesome lists",
         "number": 1438,
-        "createdAt": "2018-10-29T08:16:18Z"
+        "createdAt": "2018-10-29T08:16:18Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMzM3NDk0ODU=",
         "title": "Awesome Pretty List",
         "number": 1338,
-        "createdAt": "2018-06-19T16:34:20Z"
+        "createdAt": "2018-06-19T16:34:20Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyOTI4MTQ3MTQ=",
         "title": "Fork Awesome Open Source Games?",
         "number": 1198,
-        "createdAt": "2018-01-30T15:01:54Z"
+        "createdAt": "2018-01-30T15:01:54Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyODQ1ODMxMTY=",
         "title": "Question about list format: can you use tables?",
         "number": 1170,
-        "createdAt": "2017-12-26T17:00:55Z"
+        "createdAt": "2017-12-26T17:00:55Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMjkxMTA5NjE=",
         "title": "Question: Descriptions",
         "number": 961,
-        "createdAt": "2017-05-16T17:30:42Z"
+        "createdAt": "2017-05-16T17:30:42Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNTc5NzExNjg=",
         "title": "proposal for adding awesome-nlp to the list",
         "number": 677,
-        "createdAt": "2016-06-01T18:07:41Z"
+        "createdAt": "2016-06-01T18:07:41Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNTYzNjI0MTM=",
         "title": "Encryption list",
         "number": 663,
-        "createdAt": "2016-05-23T20:42:59Z"
+        "createdAt": "2016-05-23T20:42:59Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMjUzOTMwMDQ=",
         "title": "found a bunch of repos that are maybe not in here",
         "number": 470,
-        "createdAt": "2016-01-07T13:23:08Z"
+        "createdAt": "2016-01-07T13:23:08Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMTI1MTM5NjM=",
         "title": "The awesome-c that you have listed here is very far behind mine",
         "number": 365,
-        "createdAt": "2015-10-21T05:09:56Z"
+        "createdAt": "2015-10-21T05:09:56Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU5MzYzMjA4Nw==",
         "title": "Is there section for CMS's?",
         "number": 227,
-        "createdAt": "2015-07-07T21:20:55Z"
+        "createdAt": "2015-07-07T21:20:55Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU4NzcyNzg2NQ==",
         "title": "Linux resources?",
         "number": 188,
-        "createdAt": "2015-06-12T13:23:40Z"
+        "createdAt": "2015-06-12T13:23:40Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU4NzcyNjUyMA==",
         "title": "Shouldn't Git and GitHub cheatsheets go to Development category?",
         "number": 187,
-        "createdAt": "2015-06-12T13:19:36Z"
+        "createdAt": "2015-06-12T13:19:36Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU3MzQ5NTc4NA==",
         "title": "Please add the list of \"Open Source Clones of Popular Games\"",
         "number": 118,
-        "createdAt": "2015-05-06T02:50:29Z"
+        "createdAt": "2015-05-06T02:50:29Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU1ODM2NzAwODA=",
         "title": "awesome-awesome-covid19 or all seperately?",
         "number": 1736,
-        "createdAt": "2020-03-18T11:46:07Z"
+        "createdAt": "2020-03-18T11:46:07Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU1NjIwNzYxMTA=",
         "title": "Awesome CLI",
         "number": 1695,
-        "createdAt": "2020-02-08T20:50:31Z"
+        "createdAt": "2020-02-08T20:50:31Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU1MDI5Mzk4OTE=",
         "title": "C# is missing in the Programming Languages list ",
         "number": 1625,
-        "createdAt": "2019-10-05T09:26:27Z"
+        "createdAt": "2019-10-05T09:26:27Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0NTQwMjMyOTI=",
         "title": "Review pull_request_template.md and create-list.md",
         "number": 1575,
-        "createdAt": "2019-06-10T06:51:25Z"
+        "createdAt": "2019-06-10T06:51:25Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0NDcwNzMyMzQ=",
         "title": "would love to add some free theme collection list ",
         "number": 1570,
-        "createdAt": "2019-05-22T11:08:01Z"
+        "createdAt": "2019-05-22T11:08:01Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzOTI4Mzk5MzQ=",
         "title": "Hi, Django Link is broken",
         "number": 1481,
-        "createdAt": "2018-12-20T00:50:14Z"
+        "createdAt": "2018-12-20T00:50:14Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzODYwNTE2ODc=",
         "title": "Awesome Roadmaps",
         "number": 1470,
-        "createdAt": "2018-11-30T06:11:21Z"
+        "createdAt": "2018-11-30T06:11:21Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzODM5NzgzMjU=",
         "title": "Awesome Power BI Heroes",
         "number": 1464,
-        "createdAt": "2018-11-24T10:37:38Z"
+        "createdAt": "2018-11-24T10:37:38Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNzU0MjE2MjA=",
         "title": "Searchable Awesome",
         "number": 1441,
-        "createdAt": "2018-10-30T10:38:35Z"
+        "createdAt": "2018-10-30T10:38:35Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNTA2Nzk1ODI=",
         "title": "Add Ethereum",
         "number": 1382,
-        "createdAt": "2018-08-15T04:11:18Z"
+        "createdAt": "2018-08-15T04:11:18Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNTA2Nzk0ODE=",
         "title": "Add ZeroNet",
         "number": 1381,
-        "createdAt": "2018-08-15T04:10:42Z"
+        "createdAt": "2018-08-15T04:10:42Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNDEyMzg1NTE=",
         "title": "Would anyone be interested: \"Awesome list of hardware for Kali Linux\"?",
         "number": 1354,
-        "createdAt": "2018-07-14T14:01:36Z"
+        "createdAt": "2018-07-14T14:01:36Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMjkwOTkzOTc=",
         "title": "Moving to GitLab?",
         "number": 1324,
-        "createdAt": "2018-06-04T15:14:12Z"
+        "createdAt": "2018-06-04T15:14:12Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzMjQ1Mjg4NzU=",
         "title": "Proposal to add awesome-db-tools",
         "number": 1306,
-        "createdAt": "2018-05-18T19:38:49Z"
+        "createdAt": "2018-05-18T19:38:49Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyODUxOTc1Njc=",
         "title": "awesome-web-security has most of its resources in Chinese",
         "number": 1176,
-        "createdAt": "2017-12-30T11:16:27Z"
+        "createdAt": "2017-12-30T11:16:27Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNjQzMDQ5MzU=",
         "title": "Awesome Hacking",
         "number": 1088,
-        "createdAt": "2017-10-10T17:05:50Z"
+        "createdAt": "2017-10-10T17:05:50Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNjAwMTYyMTY=",
         "title": "Policy on replacing a link?",
         "number": 1063,
-        "createdAt": "2017-09-23T15:42:43Z"
+        "createdAt": "2017-09-23T15:42:43Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNDMwNDg3MTQ=",
         "title": "Templates for hosting awesome pages in gh-pages?",
         "number": 1006,
-        "createdAt": "2017-07-14T16:38:38Z"
+        "createdAt": "2017-07-14T16:38:38Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyNDI0MzMwOTc=",
         "title": "Help Wanted - Awesome Infosec",
         "number": 1003,
-        "createdAt": "2017-07-12T16:03:16Z"
+        "createdAt": "2017-07-12T16:03:16Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMzE4ODUxOTY=",
         "title": "awesome-js site, analogous to awesome-ruby.com?",
         "number": 975,
-        "createdAt": "2017-05-28T18:22:13Z"
+        "createdAt": "2017-05-28T18:22:13Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUyMjc5ODYzNTY=",
         "title": "Forking courtesy call, close after reading.",
         "number": 958,
-        "createdAt": "2017-05-11T13:11:45Z"
+        "createdAt": "2017-05-11T13:11:45Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxOTc0MDg0NDI=",
         "title": "Broken links on http://awesomeawesome.party/",
         "number": 850,
-        "createdAt": "2016-12-23T18:05:03Z"
+        "createdAt": "2016-12-23T18:05:03Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNzkxMTc1Nzg=",
         "title": "PR for awesome-flow",
         "number": 772,
-        "createdAt": "2016-09-26T00:06:06Z"
+        "createdAt": "2016-09-26T00:06:06Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxNzc2NDgwODg=",
         "title": "Front-end for Awesome lists",
         "number": 767,
-        "createdAt": "2016-09-18T12:08:07Z"
+        "createdAt": "2016-09-18T12:08:07Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMzU4NTAzNDQ=",
         "title": "Can I order pizza here?",
         "number": 544,
-        "createdAt": "2016-02-23T20:08:26Z"
+        "createdAt": "2016-02-23T20:08:26Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMTgyOTcyNTU=",
         "title": "For Girls.",
         "number": 424,
-        "createdAt": "2015-11-22T23:11:45Z"
+        "createdAt": "2015-11-22T23:11:45Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUxMDkxMDMwNzY=",
         "title": "Add awesome-gamedev",
         "number": 340,
-        "createdAt": "2015-09-30T14:25:03Z"
+        "createdAt": "2015-09-30T14:25:03Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU5MzY3NTM0Ng==",
         "title": "awesome-productivity",
         "number": 228,
-        "createdAt": "2015-07-08T02:30:58Z"
+        "createdAt": "2015-07-08T02:30:58Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU4Mjk2MDk3Mg==",
         "title": "awesome-c no longer maintained on GitHub",
         "number": 167,
-        "createdAt": "2015-05-31T01:05:43Z"
+        "createdAt": "2015-05-31T01:05:43Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU4MDU5OTk2OQ==",
         "title": "Consider merging with bayandin/awesome-awesomeness",
         "number": 157,
-        "createdAt": "2015-05-25T17:01:42Z"
+        "createdAt": "2015-05-25T17:01:42Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU2Nzg5NTE4OTE=",
         "title": "how about add a  awesome-cn plan?",
         "number": 1847,
-        "createdAt": "2020-08-14T07:09:15Z"
+        "createdAt": "2020-08-14T07:09:15Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU2NTQxOTcyNzI=",
         "title": "Add awesome free during covid",
         "number": 1819,
-        "createdAt": "2020-07-09T16:33:52Z"
+        "createdAt": "2020-07-09T16:33:52Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU2MTIxODI3NjA=",
         "title": "Just launced the 'delightful' project, inspired by awesome",
         "number": 1765,
-        "createdAt": "2020-05-04T21:32:24Z"
+        "createdAt": "2020-05-04T21:32:24Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU1Njk0MjIwMDQ=",
         "title": "add Gitea's awesome",
         "number": 1702,
-        "createdAt": "2020-02-23T01:52:40Z"
+        "createdAt": "2020-02-23T01:52:40Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0OTQ2NjQ2NjE=",
         "title": "AddNew",
         "number": 1617,
-        "createdAt": "2019-09-17T14:36:59Z"
+        "createdAt": "2019-09-17T14:36:59Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0NzkzNzM4OTU=",
         "title": "Awesome list for country?",
         "number": 1602,
-        "createdAt": "2019-08-11T14:11:08Z"
+        "createdAt": "2019-08-11T14:11:08Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWU0MDEwNDAyODM=",
         "title": "Include awesome-datahoarding",
         "number": 1506,
-        "createdAt": "2019-01-19T22:14:44Z"
+        "createdAt": "2019-01-19T22:14:44Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNzk0MzA1NzU=",
         "title": "add awesome-linux-software",
         "number": 1459,
-        "createdAt": "2018-11-10T15:19:45Z"
+        "createdAt": "2018-11-10T15:19:45Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNzQ5OTc0NzE=",
         "title": "What font is in the logo?",
         "number": 1439,
-        "createdAt": "2018-10-29T12:43:53Z"
+        "createdAt": "2018-10-29T12:43:53Z",
+        "so_questions": [],
+        "gotQuestions": true
       },
       {
         "id": "MDU6SXNzdWUzNzQ1MzY4NjI=",
         "title": "Add awesome-docs",
         "number": 1435,
-        "createdAt": "2018-10-26T20:30:06Z"
+        "createdAt": "2018-10-26T20:30:06Z",
+        "so_questions": [],
+        "gotQuestions": true
       }
     ]
   },

@@ -19,7 +19,7 @@ module.exports = async (query) => {
         } catch (e) {
             console.log(e);
         }
-        await sleep(10000);
+        await sleep(1000);
     }
     
     return questions;
